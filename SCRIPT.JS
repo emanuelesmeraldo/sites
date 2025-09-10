@@ -1,5 +1,6 @@
 const word = document.getElementById('Word')
 const sign = document.getElementById('sign')
+let b = 1
 
 temp = []
 
